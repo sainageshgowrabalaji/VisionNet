@@ -99,7 +99,7 @@ source env/bin/activate
 
 ---
 
-<h2>🙌 Contributors</h2>
+<!--<h2>🙌 Contributors</h2>
 <ul>
   <li><strong>Sai Nagesh Gowra Balaji</strong> – <a href="https://linkedin.com/in/sai-nagesh">LinkedIn</a></li>
-</ul>
+</ul>--->
